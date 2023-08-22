@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692677908 source:c:\users\admin\desktop\ssped1\conocimientosprevios\main.cpp
+	<iostream>
+	<string>
+	<locale>
+
